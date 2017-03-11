@@ -1,2 +1,2 @@
-# Murmur2.net
-C# implementation of Murmur Hash
+# MurmurHash .NET
+C# implementation of Murmur Hash 2
