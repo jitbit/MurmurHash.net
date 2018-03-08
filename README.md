@@ -14,7 +14,7 @@ Standard `string.GetHashCode()` gives **48 collisions** on the 466k word list.
 
 Elapsed time (on the 466k word list):
 
-| Hash | Elapsed time |
-| --- | --- |
-| MurmurHash2 | 196ms |
-| GetHashCode | 122ms |
+| Hash | Elapsed time | # of collisions |
+| --- | --- | --- |
+| MurmurHash2 | 188 ms | 22 |
+| GetHashCode | 122 ms | 48 |
