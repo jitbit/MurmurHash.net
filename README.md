@@ -17,7 +17,7 @@ Elapsed time (on the 466k word list):
 | Hash | Elapsed time | # of collisions |
 | --- | --- | --- |
 | MurmurHash2 | 104 ms | 22 |
-| GetHashCode | 47 ms | 68 |
+| GetHashCode | 47 ms | 48 |
 
 On the numbers from `1` to `999999` (think ZIP codes) the results were:
 
